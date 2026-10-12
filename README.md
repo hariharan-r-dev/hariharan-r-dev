@@ -125,7 +125,4 @@ I'm always interested in connecting with people who care about **good design, us
   <sub>Designed with curiosity. Built with intention. ✳</sub>
 
 </div>
-'''
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created {path} ({len(content)} characters)")
+
